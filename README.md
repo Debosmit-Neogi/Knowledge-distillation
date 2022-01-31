@@ -1,5 +1,5 @@
 # Knowledge-distillation + Nasty Teacher implementation
-Contains source code of my work in:
+Contains source code of my work in implementing:
 
 a. Knowledge Distillation (https://arxiv.org/abs/1503.02531)
 
