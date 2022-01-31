@@ -1,4 +1,4 @@
-# Knowledge-distillation-IIT-Jodhpur
+# Knowledge-distillation + Nasty Teacher implementation
 Contains source code of my work in:
 
 a. Knowledge Distillation (https://arxiv.org/abs/1503.02531)
